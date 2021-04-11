@@ -1,4 +1,5 @@
-# 用 Embedding做個性化電影推薦 找相似的電影
+# 用 Embedding 做個性化電影推薦 找相似的電影
+(If you speak english, please use google translate directly. Thanks.)
 
 by 40705031E 陳怡升
 
