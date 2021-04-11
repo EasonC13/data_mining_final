@@ -1,3 +1,7 @@
 *.ipynb
 *.csv
 .ipynb_checkpoints
+tmp_data
+*.png
+*.npy
+__pycache__
